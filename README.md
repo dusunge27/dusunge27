@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dusunge27
+- 👋 Hi, I’m Sagar Dusunge.
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning react.js,python.
 - 💞️ I’m looking to collaborate on project involving HTML,CSS,JavaScript,react.js.
